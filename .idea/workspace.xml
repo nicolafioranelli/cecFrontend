@@ -12,6 +12,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -26,12 +33,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/style" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -58,7 +76,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580491164372</updated>
-      <workItem from="1580491167962" duration="350000" />
+      <workItem from="1580491167962" duration="789000" />
+      <workItem from="1580717698430" duration="7156000" />
+      <workItem from="1580820073192" duration="86000" />
+      <workItem from="1580825465641" duration="11479000" />
     </task>
     <servers />
   </component>
@@ -71,9 +92,41 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="2091" y="346" width="462" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580838112146">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2091" y="346" width="462" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1366.743/1366.0.1920.1080@1366.0.1920.1080" timestamp="1580838112146" />
+    <state x="2059" y="290" width="526" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580717983729">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2059" y="290" width="526" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1366.743/1366.0.1920.1080@1366.0.1920.1080" timestamp="1580717983729" />
+    <state width="1897" height="288" key="GridCell.Tab.0.bottom" timestamp="1580838218485">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="288" key="GridCell.Tab.0.bottom/0.25.1366.743/1366.0.1920.1080@1366.0.1920.1080" timestamp="1580838218485" />
+    <state width="1897" height="288" key="GridCell.Tab.0.center" timestamp="1580838218484">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="288" key="GridCell.Tab.0.center/0.25.1366.743/1366.0.1920.1080@1366.0.1920.1080" timestamp="1580838218484" />
+    <state width="1897" height="288" key="GridCell.Tab.0.left" timestamp="1580838218484">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="288" key="GridCell.Tab.0.left/0.25.1366.743/1366.0.1920.1080@1366.0.1920.1080" timestamp="1580838218484" />
+    <state width="1897" height="288" key="GridCell.Tab.0.right" timestamp="1580838218484">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="288" key="GridCell.Tab.0.right/0.25.1366.743/1366.0.1920.1080@1366.0.1920.1080" timestamp="1580838218484" />
     <state x="187" y="32" key="SettingsEditor" timestamp="1580491517789">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="187" y="32" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1580491517789" />
+    <state x="1989" y="248" key="run.anything.popup" timestamp="1580720478808">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="248" key="run.anything.popup/0.25.1366.743/1366.0.1920.1080@1366.0.1920.1080" timestamp="1580720478808" />
+    <state x="1989" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580724538325">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="239" width="672" height="678" key="search.everywhere.popup/0.25.1366.743/1366.0.1920.1080@1366.0.1920.1080" timestamp="1580724538325" />
   </component>
 </project>
